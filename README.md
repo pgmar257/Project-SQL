@@ -1,4 +1,4 @@
-# Sql (Database Building)
+# SQL (Database Building)
 ![portada](https://soyundba.com/wp-content/uploads/2021/04/Curso-SQL.png)
 
 ## Proyecto SQL data base building
