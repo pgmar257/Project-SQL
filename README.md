@@ -23,3 +23,4 @@ Al crear la base de datos y visualizarla con EER Diagram, puedo apreciar que tan
 ### Inserción:
 
 Finalmente y siguiendo las instrucciones del proyecto entre las cuales se me exige que realice una inserción, procedo a insertar 2 nuevas tablas que a su vez si coinciden con las anteriores ya mencionadas. Estas nuevas tablas las denomino "film_category" para crear una relación entre la tabla "category" y "films" y "film_actor" para así poder relacionarlas con las tablas "film" y "actor" y así poder encontrar una nueva unión entre ellas.
+
