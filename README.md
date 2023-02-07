@@ -10,6 +10,8 @@ También creamos una carpeta llamada 'src' que contenga un archivo .py el que de
 
 Una vez explorados los archivos .csv descubrimos que se trata de un negocio de alquiler de peliculas y llegamos a la conclusión de que todos los datos de los que disponemos son necesarios para continuar con dicho negocio.
 
+
+
 ### Load to database:
 
 Creo una nueva base de datos llamada 'blockbuster' en MySQL workbench y procedemos a cargar los datos obtenidos en los archivos .csv.
